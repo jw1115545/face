@@ -3,4 +3,5 @@ env/
 kim.jpg
 e.jpg
 black.jpg
-test.py
+test.py_
+__pycache__/
